@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC PIC", "Assembly-CSharp.csproj", "{E56FF9D2-DC15-8FBF-5D5B-2B7EAD91284B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC PIC", "Assembly-CSharp-firstpass.csproj", "{A951A0B0-F509-B056-C5F1-885F12C498BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E56FF9D2-DC15-8FBF-5D5B-2B7EAD91284B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E56FF9D2-DC15-8FBF-5D5B-2B7EAD91284B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E56FF9D2-DC15-8FBF-5D5B-2B7EAD91284B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E56FF9D2-DC15-8FBF-5D5B-2B7EAD91284B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A951A0B0-F509-B056-C5F1-885F12C498BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A951A0B0-F509-B056-C5F1-885F12C498BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A951A0B0-F509-B056-C5F1-885F12C498BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A951A0B0-F509-B056-C5F1-885F12C498BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

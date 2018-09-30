@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PICPOC", "Assembly-CSharp.csproj", "{48E1E81A-F816-AE84-01BC-09D19E21C05B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PICPOC", "Assembly-CSharp-firstpass.csproj", "{53ECAA67-5B29-CB1C-3988-6566123E4874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48E1E81A-F816-AE84-01BC-09D19E21C05B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E1E81A-F816-AE84-01BC-09D19E21C05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E1E81A-F816-AE84-01BC-09D19E21C05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E1E81A-F816-AE84-01BC-09D19E21C05B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53ECAA67-5B29-CB1C-3988-6566123E4874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53ECAA67-5B29-CB1C-3988-6566123E4874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53ECAA67-5B29-CB1C-3988-6566123E4874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53ECAA67-5B29-CB1C-3988-6566123E4874}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
